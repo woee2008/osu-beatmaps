@@ -1,0 +1,111 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 53434
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 25036,88968
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.3
+
+[Metadata]
+Title:Seikai Fuseikai (TV Size)
+TitleUnicode:正解不正解 (TV Size)
+Artist:CIVILIAN
+ArtistUnicode:CIVILIAN
+Creator:HabiHolic
+Version:Normal
+Source:魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～
+Tags:The Misfit of Demon King Academy History's Strongest Demon King Reincarnates and Goes to School with His Descendants Maou Gakuin no Futekigousha Shijou Saikyou J-Rock jrock Anime Dailycare Morinaga Blitzifyyy narangd GUHROOVY Rihan
+BeatmapID:3367305
+BeatmapSetID:1237239
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:3
+OverallDifficulty:4
+ApproachRate:5
+SliderMultiplier:1
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+Video,0,"Video.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+425,291.26213592233,4,2,1,50,1,0
+
+
+[Colours]
+Combo1 : 255,128,192
+Combo2 : 0,128,255
+Combo3 : 123,213,255
+Combo4 : 111,111,111
+
+[HitObjects]
+51,334,425,6,0,L|35:228,1,100
+28,185,861,1,0,0:0:0:0:
+109,126,1153,1,0,0:0:0:0:
+184,191,1444,2,0,B|300:191|254:128|372:129,1,200
+409,157,2172,1,0,0:0:0:0:
+491,339,2755,6,0,L|501:288,2,50
+394,312,3337,2,0,L|404:261,2,50
+383,360,3774,1,0,0:0:0:0:
+15,202,4939,6,0,P|66:201|111:226,1,100
+151,249,5376,1,0,0:0:0:0:
+151,249,5522,2,0,L|131:150,1,100
+183,66,6104,6,0,P|232:64|275:89,1,100
+317,115,6541,1,0,0:0:0:0:
+317,115,6687,2,0,L|422:94,1,100
+463,182,7269,6,0,L|358:203,1,100
+302,280,7852,2,0,L|203:260,1,100
+106,284,8434,2,0,P|93:237|104:189,1,100
+176,119,9017,2,0,P|223:133|271:120,1,100
+314,94,9454,1,0,0:0:0:0:
+314,94,9599,6,0,L|301:197,1,100
+296,246,10036,1,0,0:0:0:0:
+296,246,10182,1,0,0:0:0:0:
+250,335,10473,6,0,L|197:324,1,50
+148,343,10764,2,0,L|127:241,1,100
+81,226,11201,1,0,0:0:0:0:
+81,226,11347,2,0,L|60:124,1,100
+127,54,11929,6,0,P|177:50|221:73,1,100
+304,129,12512,1,0,0:0:0:0:
+304,129,12658,2,0,L|407:114,1,100
+458,197,13240,6,0,L|351:217,1,100
+310,225,13677,1,0,0:0:0:0:
+310,225,13823,1,0,0:0:0:0:
+239,293,14114,1,0,0:0:0:0:
+239,293,14259,6,0,L|127:275,1,100
+51,228,14842,2,0,P|36:182|47:134,1,100
+78,94,15279,1,0,0:0:0:0:
+77,93,15424,2,0,P|125:108|172:96,1,100
+256,41,16007,1,0,0:0:0:0:
+332,105,16298,6,0,L|324:157,1,50
+319,204,16590,2,0,P|367:197|410:221,2,100
+256,281,17463,1,0,0:0:0:0:
+256,281,17609,1,0,0:0:0:0:
+173,224,17900,5,0,0:0:0:0:
+173,224,18046,2,0,L|156:117,1,100
+244,75,18628,2,0,L|253:128,1,50
+265,180,18920,2,0,P|309:159|357:167,1,100
+403,146,19357,1,0,0:0:0:0:
+403,146,19502,2,0,L|386:261,1,100
